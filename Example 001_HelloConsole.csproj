@@ -1,11 +1,2 @@
-<Project Sdk="Microsoft.NET.Sdk">
+Console.Write("2 Hello world!");
 
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>Example_001_HelloConsole</RootNamespace>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
-
-</Project>
